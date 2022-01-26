@@ -14,6 +14,7 @@
 		A74EE53327972EA60051C326 /* Lab1_SaiNavaneeth_820794_iOS.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = A74EE53127972EA60051C326 /* Lab1_SaiNavaneeth_820794_iOS.xcdatamodeld */; };
 		A74EE53827972EAB0051C326 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A74EE53627972EAB0051C326 /* LaunchScreen.storyboard */; };
 		A7E26D8A2797B4230011BBAC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A7E26D892797B4230011BBAC /* Assets.xcassets */; };
+		F1BEC35727A1102900951E00 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F1BEC35627A1102900951E00 /* Assets.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		A74EE53727972EAB0051C326 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A74EE53927972EAB0051C326 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A7E26D892797B4230011BBAC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Assets.xcassets; path = ../../../Downloads/AppIcons/Assets.xcassets; sourceTree = "<group>"; };
+		F1BEC35627A1102900951E00 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Assets.xcassets; path = ../../Lab2_SaiNavaneeth_820794_iOS/Lab2_SaiNavaneeth_820794_iOS/Assets.xcassets; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				A74EE52C27972EA60051C326 /* ViewController.swift */,
 				A74EE52E27972EA60051C326 /* Main.storyboard */,
 				A7E26D892797B4230011BBAC /* Assets.xcassets */,
+				F1BEC35627A1102900951E00 /* Assets.xcassets */,
 				A74EE53627972EAB0051C326 /* LaunchScreen.storyboard */,
 				A74EE53927972EAB0051C326 /* Info.plist */,
 				A74EE53127972EA60051C326 /* Lab1_SaiNavaneeth_820794_iOS.xcdatamodeld */,
@@ -130,6 +133,7 @@
 			files = (
 				A74EE53827972EAB0051C326 /* LaunchScreen.storyboard in Resources */,
 				A7E26D8A2797B4230011BBAC /* Assets.xcassets in Resources */,
+				F1BEC35727A1102900951E00 /* Assets.xcassets in Resources */,
 				A74EE53027972EA60051C326 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
